@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+transformers
+torch
+pypdf
+gtts
+streamlit_mic_recorder
+whisper
+langchain-huggingface
